@@ -4,7 +4,7 @@ This project has been done for a contest.
 
 ## Let's Hope for the BEST
 
-This project is a starting point for WhatsApp Clone application. 
+This project is a starting point for WhatsApp Clone application. The fonts are mobile default font so please do not get confisued about that.
 
 ## Here is a preview attached below.
 
