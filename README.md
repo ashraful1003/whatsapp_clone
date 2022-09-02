@@ -7,4 +7,6 @@ This project has been done for a contest.
 This project is a starting point for WhatsApp Clone application. 
 
 ## Here is a preview attached below.
-![alt Second Page](https://youtube.com/shorts/-UBr9fF2ZIM?feature=share)
+
+https://user-images.githubusercontent.com/76874409/188166258-1fafdf29-c593-4d0a-a069-026b29ebd003.mp4
+
